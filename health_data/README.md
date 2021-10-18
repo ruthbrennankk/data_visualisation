@@ -32,5 +32,6 @@ Region encoded as marker, Population encoded as colour <br />
  <br />
 
 ## 3 - Alternate visualization: Encode all 4 attributes in a single chart
-TODO Description <br />
+This visualisation of a stacked bar graph shows the average life expectancy in years (health) binned vs the GDP per capita (income) for a country. The encoding channel colour was used to encode the region/subcontinent of the country and opacity was used to denote the population of each country. Tooltips and graph interaction are demonstrated via gifs in the GitHub repository listed above. <br />
+ <br />
 ![Alt Text](https://github.com/ruthbrennankk/data_visualisation/blob/master/health_data/output/alt.gif)
